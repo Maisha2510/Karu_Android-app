@@ -1,24 +1,24 @@
 ![](https://cdn.discordapp.com/attachments/983042852315615266/1017775140882350110/karulogo_1.png)
-##### An app for selling and buying artworks
+##### An app for selling and buying artwork
 
 
  [Behance link for all the screenshots](https://www.behance.net/gallery/133793711/KARU-%28Android-app-to-Buy-Sell-artworks%29)
 
 ## Introduction
-Hi! I am Debopriya Deb Roy. Currently a CSE undergrad student studying in Ahsanullah University of Science and Technology. In our software development lab of 2nd year 2nd semester, we had to make a android application. So, I made this app with my team member Maisha Musarrat Nabila. Karu is an android app which is basically a buying-selling platform using firestore database to handle it's data.
+Hi! I'm Maisha Musarrat Nabila. Currently, I am a CSE undergrad student studying at Ahsanullah University of Science and Technology. In our software development lab of the 2nd-year 2nd semester, we had to make an Android application. So, I made this app with my team member Maisha Musarrat Nabila. Karu is an Android app that is basically a buying-selling platform using the Firestore database to handle its data.
 
 
 ## Features
 
-- Main feed where all sell items are displayed, can be searched and add to cart or favourites for later selection
-- User's can add sell posts with all necessary information
-- As an additional feature, users can also host different events form the app
-- Users can also buy tickes from the app
-- As a side feature, this app alows the user to read art 
+- Main feed where all sell items are displayed, can be searched and added to cart or favorites for later selection
+- Users can add sell posts with all necessary information
+- As an additional feature, users can also host different events from the app
+- Users can also buy tickets from the app
+- As a side feature, this app allows the user to read art 
 
 
 
- ## Android manifeset
+ ## Android manifest
  * Compile SDK 31 
  * Min SDK 23
 
