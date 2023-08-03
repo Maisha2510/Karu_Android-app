@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Karu_Android_app</string>
+    <string name="google">Button</string>
+    <string name="fb">Button</string>
+    <string name="apple">apple</string>
+    <string name="signin">Sign in</string>
+    <string name="signup">Sign Up</string>
+    <string name="or_login_with_email">Or, sign in with</string>
+    <string name="or_register_with_email">Or, register with email</string>
+    <string name="loginBtnText">Login</string>
+    <string name="already_account">Already have an account?</string>
+    <string name="createAccount">Create Account</string>
+    <string name="newHere">Not on Karu yet?</string>
+    <string name="emailhint">Email or Username</string>
+    <string name="passhint">Password</string>
+
+
+    <string name="password">Password</string>
+    <string name="email_id">Email ID</string>
+    <string name="sign_up">Sign Up</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="q1">My product was damaged/lost during the delivery. What should I do?</string>
+    <string name="q2">How can I make a complaint about my delivery agent or some issues I faced for my delivery?</string>
+    <string name="q3"></string>
+    <string name="q4"></string>
+    <string name="q5"></string>
+    <string name="q1Ans">Please send your customer details and Consignment ID along with a picture of the damaged product at 190104058@aust.edu.
+        We will then look into the matter to investigate and get back to you within the next 48 hours.
+        In case the parcel is damaged due to poor packaging or for not having precautionary messages on the packaging, KARU will not be held accountable. We also encourage the customers to check their products at the time of delivery to avoid all sorts of confusion.</string>
+
+    <string name="noti1">Notification will appear here</string>
+    <string name="noti2">We will notify yoy when something new and interesting is happening</string>
+
+
+    <string-array name="names">
+        <item>+</item>
+        <item>-</item>
+    </string-array>
+</resources>
